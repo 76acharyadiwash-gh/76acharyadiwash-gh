@@ -1,13 +1,14 @@
-<div align="center"> 
-          ![snake gif](https://github.com/76acharyadiwash-gh/76acharyadiwash-gh/blob/output/github-snake-dark.svg)
-
- </div>
-
 
 <div align="center"> 
-          ## 🌐 Socials:
+![snake gif](https://github.com/76acharyadiwash-gh/76acharyadiwash-gh/blob/output/github-snake-dark.svg)
+</div>
+
+
+<div align="center"> 
+
+ ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/diwash.acharya.944) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/acharyadiwash776) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:76.acharyadiwash@gmail.com) 
-
+<div align="center"> 
 
 # 💻 Tech Stack:
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
