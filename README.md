@@ -15,7 +15,7 @@
 ### 🌐 Connect with me 
 <br>
 <a href="https://your-portfolio-url.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" width="55">
+  <img src="https://cdn-icons-png.flaticon.com/512/2720/2720550.png" alt="Portfolio" width="55">
 </a>
 <br>
 <a href="https://www.facebook.com/diwash.acharya.944">
