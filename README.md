@@ -13,7 +13,11 @@
 # Hi, I'm Diwash! 👋
 
 ### 🌐 Connect with me 
-
+<br>
+<a href="https://your-portfolio-url.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" width="55">
+</a>
+<br>
 <a href="https://www.facebook.com/diwash.acharya.944">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="55" alt="Facebook">
 </a>
@@ -32,7 +36,7 @@
 
 </div>
 
-
+<br>
 
 <div align="center"> 
 
