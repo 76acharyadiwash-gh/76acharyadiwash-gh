@@ -6,29 +6,26 @@
 </div>
 
 
-<div align="center"> 
-
- ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/diwash.acharya.944)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/acharyadiwash776)
-
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:76.acharyadiwash@gmail.com) 
 
 
-# Project Title
+## 🌐 Socials:
 
-A brief description of what this project does and who it's for
+<a href="https://www.facebook.com/diwash.acharya.944" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30">
+</a>
 
-<a href="https://www.linkedin.com/in/your-profile">
+<a href="https://www.instagram.com/acharyadiwash776" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30">
+</a>
+
+<a href="mailto:76.acharyadiwash@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30">
+</a>
+
+<a href="https://www.linkedin.com/in/76-diwash/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30">
 </a>
 
-<a href="https://www.linkedin.com/in/your-profile">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24" alt="LinkedIn">
-</a>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 
 
 
