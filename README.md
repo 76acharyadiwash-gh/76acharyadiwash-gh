@@ -14,7 +14,7 @@
 
 ### 🌐 Connect with me 
 <br>
-<a href="https://your-portfolio-url.com" target="_blank">
+<a href="https://acharyadiwash76.com.np/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2720/2720550.png" alt="Portfolio" width="55">
 </a>
 <br>
