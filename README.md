@@ -7,19 +7,14 @@
 
 
 
-
-<div align="center">
-
-# Hi, I'm Diwash! 👋
+<h1 align="center"> Hi, I'm <span style="color:#c65b78;">Diwash ! 👋 </span> </h1>
 
 ### 🌐 Connect with me 
 <br>
 <a href="https://acharyadiwash76.com.np/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2720/2720550.png" alt="Portfolio" width="55">
 </a>
-<br>
-<br>
-<br>
+ 
 <a href="https://www.facebook.com/diwash.acharya.944">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="55" alt="Facebook">
 </a>
@@ -36,7 +31,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="55" alt="LinkedIn">
 </a>
 
-</div>
 
 <br>
 
