@@ -9,7 +9,8 @@
 
 <h1 align="center"> Hi, I'm <span style="color:#c65b78;">Diwash ! 👋 </span> </h1>
 
-### 🌐 Connect with me 
+###  🕵️ Find me on
+
 <div align="center"> 
 <br>
 <a href="https://acharyadiwash76.com.np/" target="_blank">
@@ -33,9 +34,9 @@
 </a>
 </div>
 <br>
----
+
 <br>
-###
+
 <div align="center"> 
 
 ![](https://streak-stats.demolab.com/?user=76acharyadiwash-gh&theme=dark&hide_border=false) <br/>
