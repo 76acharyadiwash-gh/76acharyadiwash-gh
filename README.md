@@ -14,7 +14,7 @@
 <a href="https://acharyadiwash76.com.np/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2720/2720550.png" alt="Portfolio" width="55">
 </a>
- 
+ &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/diwash.acharya.944">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="55" alt="Facebook">
 </a>
@@ -31,9 +31,9 @@
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="55" alt="LinkedIn">
 </a>
 
-
 <br>
-
+---
+<br>
 <div align="center"> 
 
 ![](https://streak-stats.demolab.com/?user=76acharyadiwash-gh&theme=dark&hide_border=false) <br/>
